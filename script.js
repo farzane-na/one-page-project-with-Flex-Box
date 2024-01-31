@@ -1,5 +1,5 @@
 let $=document;
-let menuBar=$.querySelector(".header__icon");
+let menuBar=$.querySelector(".header__icon");  //for respansive site
 let menuBarIcon=$.querySelector(".header__icon i")
 let menu=$.querySelector(".menu")
 function showMenuBar(){

@@ -273,7 +273,9 @@ body {
 .header-content_image{
   width: 100%;
 }
-/* start main*/
+
+/* start main section */
+/* works section */
 .main{
   padding-top: 5rem;
 }
@@ -325,7 +327,8 @@ body {
 .works-image img{
   width: 100%;
 }
-/*main part two*/
+
+/*comment section*/
 .person-comment{
   background-color: #2F5BEA;
   margin-top: 5rem;
@@ -394,7 +397,8 @@ body {
   display: block;
   margin: 1rem;
 }
-/*portfolio*/
+
+/*portfolio section*/
 .portfolio{
   margin: 5rem 0;
 }
@@ -427,6 +431,7 @@ body {
   height: 100%;
   object-fit: cover;
 }
+
 /*footer*/
 .footer-top{
   background-color: #2F5BEA;
@@ -436,7 +441,6 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  /* padding: 6rem 0; */
 }
 .newsletter-text{
   color: #fff;
@@ -479,6 +483,7 @@ body {
   font-family:"TTNorms-Regular";
   flex-wrap: wrap;
 }
+
   /* Project Responsive */
 
 @media only screen and (max-width: 1200px) {
